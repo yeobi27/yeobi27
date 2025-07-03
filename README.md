@@ -1,5 +1,6 @@
 - 👋 Hi, there I'm @yeobi27
 - 주 분야는 Unity, Embedded System, Python, Flutter, React 입니다.
+- AWS EC2, RDS, MySQL, PostgreSQL 을 주로 사용했습니다.
 ---------------------------------------------------------------------------------------------------------------------------------------------  
 <!-- header -->
 <p align='center'>
