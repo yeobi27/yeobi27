@@ -16,13 +16,12 @@
 ## 💻 Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Unity-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Emebbed-181717?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-092E20?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-092E20?style=flat-square&logo=react&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
