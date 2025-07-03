@@ -15,13 +15,13 @@
 
 ## Stacks
 <p>
-  <img src="https://img.shields.io/flat/Unity-181717?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/flat/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/flat/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/flat/Rapsberry Pi-A22846?style=flat-square&logo=rapsberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/flat/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/flat/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>  
-  <img src="https://img.shields.io/flat/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rapsberry Pi-A22846?style=flat-square&logo=rapsberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
