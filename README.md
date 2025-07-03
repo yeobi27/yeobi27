@@ -1,10 +1,10 @@
-👋 Hi, there
+👋 Hi, there I'm @yeobi27
 ---------------------------------------------------------------------------------------------------------------------------------------------
 <!-- header -->
 <p>  
   <!-- header -->
   <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&fontColor=auto&height=200&section=header&text=I'm+@yeobi27!👋&fontSize=40&backgroundColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&fontColor=auto&height=200&section=header&text=I'm+All-round+developer&fontSize=40&backgroundColor=000000"/>
   </p>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/yeobi27@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
