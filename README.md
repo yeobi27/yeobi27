@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/byekkimssi/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
-## 💻 Tech Stacks
+## Stacks
 <p>
   <img src="https://img.shields.io/badge/Unity-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -29,3 +29,5 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeobi27&layout=compact&theme=vue)
