@@ -1,11 +1,10 @@
 👋 Hi, there I'm @yeobi27
----------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------  
 <!-- header -->
-<p>  
-  <!-- header -->
-  <p align='center'>
+<p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&fontColor=auto&height=200&section=header&text=I'm+developer&fontSize=40&backgroundColor=auto"/>
-  </p>
+</p>
+<p>  
   <!-- gmail -->
   <img src="https://img.shields.io/badge/yeobi27@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <!-- Tistory -->
