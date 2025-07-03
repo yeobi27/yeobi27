@@ -1,7 +1,11 @@
-👋 Hi, there I’m @yeobi27 "All-round developer"
+👋 Hi, there I’m @yeobi27
 ---------------------------------------------------------------------------------------------------------------------------------------------
 <!-- header -->
 <p>  
+  <!-- header -->
+  <p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=000000&fontColor=ffffff&height=200&section=header&text=Hi,+there+I'm+@yeobi27!👋&fontSize=40&backgroundColor=000000"/>
+  </p>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/yeobi27@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <!-- Tistory -->
