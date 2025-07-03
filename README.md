@@ -2,8 +2,7 @@
 "All-round developer"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- header -->
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ffffff&height=200&section=header&text=Welcome+to+SungYeob's+Github!👋&fontSize=40&backgroundColor=000000"/>
+<p>  
   <!-- gmail -->
   <img src="https://img.shields.io/badge/yeobi27@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <!-- Tistory -->
