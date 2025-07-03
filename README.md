@@ -34,3 +34,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeobi27&layout=compact&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeobi27&theme=dark&show_icons=true)
