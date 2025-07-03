@@ -4,7 +4,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&fontColor=auto&height=200&section=header&text=I'm+developer&fontSize=40&backgroundColor=auto"/>
 </p>
-<p>  
+<p align='right'>  
   <!-- gmail -->
   <img src="https://img.shields.io/badge/yeobi27@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <!-- Tistory -->
