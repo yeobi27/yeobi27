@@ -1,2 +1,2 @@
 👋 Hi, I’m @yeobi27
-this is my learning repository.
+"I'm mainly a Unity content developer, skilled in Python, React, Spring Boot, and embedded systems."
