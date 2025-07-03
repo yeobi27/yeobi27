@@ -2,10 +2,9 @@
 "All-round developer"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- header -->
-<p align='center'>
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ffffff&height=200&section=header&text=Welcome+to+SungYeob's+Github!👋&fontSize=40&backgroundColor=000000"/>
 </p>
-
 <!--badge-->
 <p>
   <!-- gmail -->
