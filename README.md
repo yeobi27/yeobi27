@@ -33,10 +33,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 </p>
 
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeobi27&layout=compact&theme=algolia)
-</p>
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeobi27&theme=dark&show_icons=true)
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeobi27&layout=compact&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeobi27&theme=dark&show_icons=true)
