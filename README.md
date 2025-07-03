@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rapsberry Pi-A22846?style=flat&logo=rapsberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>    
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat&logoColor=white"/>
