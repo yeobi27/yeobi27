@@ -1,7 +1,11 @@
-- 👋 Hi, there I'm @yeobi27
-- 🤔 주 분야는 Unity, Embedded System, Python, Flutter, React 입니다.
-- AWS EC2, RDS, MySQL, PostgreSQL 을 주로 사용했습니다.
-- 최근에는 Docker 에 관심이 많습니다.
+### 👋 Hi there! I'm @yeobi27
+
+I'm a developer with a passion for building things using **Unity**, **Embedded Systems**, **Python**, **Flutter**, and **React**.  
+I usually work in cloud environments like **AWS EC2** and **RDS**, and I'm experienced with **MySQL** and **PostgreSQL**.  
+Recently, I've been diving into **Docker** and loving how it simplifies development and deployment.
+
+Always learning, always building 🚀
+
 ---------------------------------------------------------------------------------------------------------------------------------------------  
 <!-- header -->
 <p align='center'>
