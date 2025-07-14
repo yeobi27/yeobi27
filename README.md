@@ -34,7 +34,7 @@ Always learning, always building 🚀
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
