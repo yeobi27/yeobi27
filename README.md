@@ -40,16 +40,3 @@ Always learning, always building 🚀
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-## 🧾 Profile Summary
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/yeobi27/yeobi27/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-    <img src="https://raw.githubusercontent.com/yeobi27/yeobi27/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
-    <img src="https://raw.githubusercontent.com/yeobi27/yeobi27/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
-    <img src="https://raw.githubusercontent.com/yeobi27/yeobi27/main/profile-summary-card-output/nord_dark/3-stats.svg" />
-    <img src="https://raw.githubusercontent.com/yeobi27/yeobi27/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
-  </a>
-</p>
-
-
