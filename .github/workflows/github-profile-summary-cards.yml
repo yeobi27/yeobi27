@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  create:
-  schedule: # execute every 24 hours
-    - cron: '0 0 * * *' # 매일 UTC 00:00에 실행
+  # create:
+  # schedule: # execute every 24 hours
+  #   - cron: '0 0 * * *' # 매일 UTC 00:00에 실행
   workflow_dispatch:
 
 jobs:
